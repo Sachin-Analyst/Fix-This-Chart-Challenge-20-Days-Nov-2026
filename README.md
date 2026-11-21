@@ -1,4 +1,4 @@
-Fix-This-Chart-Challenge-20-Days-Nov-2026
+# Fix-This-Chart-Challenge-20-Days-Nov-2026
  
 Welcome to my Codebasics "Fix This Chart" Challenge project. This repository documents a 20-day chart review series. Each day takes one chart with something wrong in it, names what is wrong, rebuilds the chart in Power BI, and keeps one rule from it.
  
