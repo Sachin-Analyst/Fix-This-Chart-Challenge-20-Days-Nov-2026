@@ -47,7 +47,7 @@ The rules below grow into a 20-point checklist to run on any dashboard before so
 
 | Day | Question | Rule | Folder | LinkedIn Post |
 | --- | --- | --- | --- | --- |
-| 1 | What would you change in a revenue bar chart before it reaches the board? | A bar's length is its value, so the axis starts at zero. | [Day-01](Day-01) | Link to be added |
+| 1 | What would you change in a revenue bar chart before it reaches the board? | A bar's length is its value, so the axis starts at zero. | [Day-1](Day-1) | Link to be added |
 
 ---
 
