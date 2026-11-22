@@ -47,7 +47,7 @@ The rules below grow into a 20-point checklist to run on any dashboard before so
 
 | Day | Question | Rule | Folder | LinkedIn Post |
 | --- | --- | --- | --- | --- |
-| 1 | What would you change in a revenue bar chart before it reaches the board? | A bar's length is its value, so the axis starts at zero. | [Day-1](Day-1) | [Day - 1 Linkedin post(https://lnkd.in/p/gUGATZwJ)] |
+| 1 | What would you change in a revenue bar chart before it reaches the board? | A bar's length is its value, so the axis starts at zero. | [Day-1](Day-1) | [Day-1-Linkedin-post(https://lnkd.in/p/gUGATZwJ)] |
 | 2 | Which product category is AtliQ's #2 earner, and can the manager see it in under five seconds? | If people must compare the parts, use sorted bars, not a pie. | [Day-2](Day-2) | Link to be added |
 
 ---
