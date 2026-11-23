@@ -49,7 +49,7 @@ The rules below grow into a 20-point checklist to run on any dashboard before so
 | --- | --- | --- | --- | --- |
 | 1 | What would you change in a revenue bar chart before it reaches the board? | A bar's length is its value, so the axis starts at zero. | [Day-1](Day-1) | [Day 1](https://lnkd.in/p/gUGATZwJ) |
 | 2 | Which product category is AtliQ's #2 earner, and can the manager see it in under five seconds? | If people must compare the parts, use sorted bars, not a pie. | [Day-2](Day-2) | [Day-2](https://lnkd.in/p/g8kD7P2J) |
-| 3 | Which three cities will the manager visit, and can the travel team see them at a glance? | Sort bars by value, not by the alphabet. | [Day-3](Day-3) | [Day-3](PASTE-LINKEDIN-POST-URL) |
+| 3 | Which three cities will the manager visit, and can the travel team see them at a glance? | Sort bars by value, not by the alphabet. | [Day-3](Day-3) | [Day-3](https://lnkd.in/p/gUK6z4wP) |
 
 ---
 
