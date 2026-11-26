@@ -52,7 +52,7 @@ The rules below grow into a 20-point checklist to run on any dashboard before so
 | 3 | Which three cities will the manager visit, and can the travel team see them at a glance? | Sort bars by value, not by the alphabet. | [Day-3](Day-3) | [Day-3](https://lnkd.in/p/gUK6z4wP) |
 | 4 | Which product sold the most units in FY25, and can the manager read every product name without tilting their head? | If readers must tilt their heads, flip to horizontal bars. | [Day-4](Day-4) | [Day-4](https://lnkd.in/p/gnd_UrkG) |
 | 5 | Which region led sales, and can the COO compare all five regions without seeing a fake trend? | Lines are for time, categories get bars. | [Day-5](Day-5) | [Day-5](https://lnkd.in/p/gEkvM3kD) |
-| 6 | Which sales channel grew its share from FY24 to FY25, and can the head of finance see it in one look? | Comparing two points in time? Draw slopes, not two pies. | [Day-6](Day-6) | [Day-6](paste-your-linkedin-post-link-here) |
+| 6 | Which sales channel grew its share from FY24 to FY25, and can the head of finance see it in one look? | Comparing two points in time? Draw slopes, not two pies. | [Day-6](Day-6) | [Day-6](https://lnkd.in/p/gCyn4f2U) |
 
 ---
 
