@@ -53,6 +53,8 @@ The rules below grow into a 20-point checklist to run on any dashboard before so
 | 4 | Which product sold the most units in FY25, and can the manager read every product name without tilting their head? | If readers must tilt their heads, flip to horizontal bars. | [Day-4](Day-4) | [Day-4](https://lnkd.in/p/gnd_UrkG) |
 | 5 | Which region led sales, and can the COO compare all five regions without seeing a fake trend? | Lines are for time, categories get bars. | [Day-5](Day-5) | [Day-5](https://lnkd.in/p/gEkvM3kD) |
 | 6 | Which sales channel grew its share from FY24 to FY25, and can the head of finance see it in one look? | Comparing two points in time? Draw slopes, not two pies. | [Day-6](Day-6) | [Day-6](https://lnkd.in/p/gCyn4f2U) |
+| 7 | How did on-time delivery change from FY24 to FY25, and can Thor see it without reading a chart? | One or two numbers? Skip the chart and say the number. | [Day-7](./Day-7) | [Day-7](https://lnkd.in/p/gsE8xNuY) |
+| 8 | Is demand rising and when does it peak, so Thor's team can plan warehouse staff for next year? | Long daily series? Draw a line and smooth the noise. | [Day-8](./Day-8) | [Day-8](PASTE_LINKEDIN_POST_URL) |
 
 ---
 
